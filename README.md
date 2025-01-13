@@ -1,5 +1,7 @@
 # Breast Cancer Classification API
 
+![BC-charity-comparisons-980x550](https://github.com/user-attachments/assets/d1d3d812-8048-4b08-882f-d24e116b330a)
+
 ## Description:
 
 Breast cancer is the most prevalent cancer among women globally, representing 25% of all cancer diagnoses. In 2015 alone, it impacted over 2.1 million individuals. The disease originates when breast cells grow uncontrollably, often forming tumors that can be detected through X-rays or felt as lumps in the breast.
