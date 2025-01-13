@@ -1,5 +1,11 @@
 # Breast Cancer Classification API
 
+## Description:
+
+Breast cancer is the most prevalent cancer among women globally, representing 25% of all cancer diagnoses. In 2015 alone, it impacted over 2.1 million individuals. The disease originates when breast cells grow uncontrollably, often forming tumors that can be detected through X-rays or felt as lumps in the breast.
+
+The main challenge in detecting breast cancer lies in classifying tumors as either malignant (cancerous) or benign (non-cancerous). Your task is to use machine learning, specifically Support Vector Machines (SVMs), to classify these tumors using the Breast Cancer Wisconsin (Diagnostic) Dataset.
+
 This project implements a machine learning model to classify breast cancer using the Breast Cancer Dataset. The project includes data preprocessing, model training, and deployment of the trained model as a REST API using Flask, Docker, and Kubernetes.
 Table of Contents
 
